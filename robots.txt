@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aalekhbansal12.github.io/hotel-blue-moon/sitemap.xml
